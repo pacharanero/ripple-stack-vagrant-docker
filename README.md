@@ -1,4 +1,5 @@
-# ripple-vagrant
+# ripple-stack-vagrant-docker
+
 Development version of the Ripple Stack deployed via Vagrant (for cross-platform usability) and the docker-compose provisioner (for simplicity and minimal configuration)
 
 This repository contains a Vagrantfile and a Docker Compose file which together automate the setup of a working Ripple Stack.
